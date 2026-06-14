@@ -1,4 +1,3 @@
-// ===== AGRISEN - JavaScript Principal =====
 
 // Attendre que la page soit chargée
 document.addEventListener('DOMContentLoaded', function () {
